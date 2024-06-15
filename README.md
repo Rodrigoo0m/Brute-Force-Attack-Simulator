@@ -86,9 +86,6 @@ Enter the login system URL: http://example.com/login
 4. Push to the branch: `git push origin my-feature-branch`
 5. Create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
 
 ### Summary of the README.md
